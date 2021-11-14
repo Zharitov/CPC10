@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CPC10</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about">О нас</string>
+    <string name="info">Выполнил студент Купцов С.С.</string>
+    <string name="back">Назад</string>
+    <string name="menu">Работа</string>
+    <string name="about_us">О нас</string>
+    <string name="cpc">Самостоятельная работа по реализации транзакций фрагментов в активности</string>
+</resources>
